@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains a Google Earth Engine (GEE) automated workflow to dynamically model, map, and quantify riverine erosion and land degradation on Majuli Island, Assam. By integrating multi-sensor satellite imagery and climate data, this project identifies high-risk ecological zones vulnerable to the Brahmaputra River's monsoon flood cycles.
+![Erosion Risk Map](results/static_maps/Erosion2022.png)
 
 ## Methodology
 The core erosion model utilizes a multi-criteria heuristic approach, analyzing pre- and post-monsoon conditions for every given year. A pixel is classified as "High Erosion Risk" if it meets strict compounding thresholds across the following datasets:
